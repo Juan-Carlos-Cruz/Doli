@@ -5,8 +5,8 @@
     "/usr/bin/node",
     "/usr/bin/vercel",
     "deploy",
-    "--prod",
-    "--temporary"
+    "--temporary",
+    "--yes"
   ],
   "cliVersion": "59.17.0",
   "detectedFramework": {
